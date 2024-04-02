@@ -23,6 +23,6 @@ In this project, we will go over the tools and features used to retrieve data fo
   <li>YouTube Music</li>
 </uL>
 
-## Analysis done
+## Types of analysis done
 
-[Screenshot 2024-03-31 150256](https://github.com/KotoneZQ/ICT2214-G31/assets/113297254/8ef96653-41d6-4286-8773-297e885159fb)
+<img src="analyzer.png" alt="Alt text" title="MobSFAnalysis">
