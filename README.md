@@ -18,7 +18,7 @@ In this project, we will go over the tools and features used to retrieve data fo
   <li>MobSF</li>
   <li>Androwarn</li>
   <li>Mobexler</li>
-  <li>JD-GUI</li>
+  <li>JADX</li>
   <li>Burp Suite</li>
 </uL>
 
