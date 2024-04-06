@@ -15,10 +15,10 @@ In this project, we will go over the tools and features used to retrieve data fo
 
 ## Tools Used
 <uL>
-  <li>MobSF</li>
+  <li>MobSF (Mobile Security Framework)</li>
   <li>Androwarn</li>
   <li>Mobexler</li>
-  <li>JADX</li>
+  <li>JADX (Dex to Java Decompiler)</li>
 </uL>
 
 ## Application used
