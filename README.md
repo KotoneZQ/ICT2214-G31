@@ -1,4 +1,4 @@
-# Project Name: API Flow Analyzer
+# Project Name: APK Flow Analyzer
 Team Name: SafeSurfers
 ## Introduction
 Android devices have become more widespread lately. A recent study highlights that more and more security issues concerning data privacy in preinstalled system apps have emerged. Many preinstalled apps send critical information to third-party domains without the user's knowledge. In this project, we will investigate whether these security risks are present on Android smartphones sold in Singapore. The results will reveal whether Singapore-sold Android smartphones are vulnerable to such security threats and whether immediate actions such as upgrading security defenses or raising awareness among locals are required. 
