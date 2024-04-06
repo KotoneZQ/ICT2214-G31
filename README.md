@@ -24,8 +24,8 @@ In this project, we will go over the tools and features used to retrieve data fo
 ## Application used
 <uL>
   <li>Chrome</li>
-  <li>Drive</li>
-  <li>Maps</li>
+  <li>Google Drive</li>
+  <li>Google Maps</li>
   <li>Photos</li>
   <li>YouTube</li>
   <li>YouTube Music</li>
